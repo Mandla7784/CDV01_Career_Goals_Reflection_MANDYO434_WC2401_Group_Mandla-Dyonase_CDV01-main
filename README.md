@@ -38,7 +38,7 @@
     - Achievable: Develop a portfolio website using React.js by practicing 2 hours daily.
     - Relevant: Attend a cloud computing workshop to explore AWS fundamentals within 6 months.
     - Time-bound: Achieve AWS Certified Cloud Practitioner certification within the next year.
-    - These goals are  achivable beacuse of my capabilities as well as consistancy of practice with so much effrot .
+    - These goals are  achivable beacuse of my capabilities as well as consistancy of practice with so much effort .
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Work for Amazon as a developer.
