@@ -10,7 +10,7 @@
 
 1. **Skills Analysis**:
     
-    - As a junior developer i am proficient in HTML,JAVASCRIPTand CSS.
+    - As a junior developer i am proficient in HTML,JAVASCRIPT and CSS.
     - I need to improve on designing web pages using FIGMA and other design tools.
 2. **Interests and Values**:
     
